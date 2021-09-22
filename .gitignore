@@ -36,3 +36,9 @@ out/
 ### Script ###
 *.out
 run.sh
+
+### Json files ###
+*.json
+
+*/application.yml
+
