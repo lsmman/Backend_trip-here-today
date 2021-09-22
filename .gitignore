@@ -40,5 +40,7 @@ run.sh
 ### Json files ###
 *.json
 
+Key
+Todo
 */application.yml
 
